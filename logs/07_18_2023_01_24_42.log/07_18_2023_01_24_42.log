@@ -1,0 +1,18 @@
+[ 2023-07-18 01:24:43,797] 26 root - INFO - Entered the data ingestion method
+[ 2023-07-18 01:24:44,033] 29 root - INFO - Read the dataset as dataframe
+[ 2023-07-18 01:24:44,034] 33 root - INFO - Changing column names in  DF is done 
+[ 2023-07-18 01:24:44,921] 42 root - INFO - train test split initiated
+[ 2023-07-18 01:24:45,837] 47 root - INFO - Data Ingestion is done
+[ 2023-07-18 01:24:45,841] 21 root - INFO - Data Transformation started
+[ 2023-07-18 01:24:46,093] 116 root - INFO - Train and Test csv file reading done 
+[ 2023-07-18 01:24:46,105] 126 root - INFO - Column Deletion from train and test data is done
+[ 2023-07-18 01:24:46,218] 139 root - INFO - Outliers capped on our train data
+[ 2023-07-18 01:24:46,219] 141 root - INFO - Outliers capped on our test data
+[ 2023-07-18 01:24:46,219] 143 root - INFO - Getting preprocessing object
+[ 2023-07-18 01:24:46,219] 48 root - INFO - Numerical  column encoding completed
+[ 2023-07-18 01:24:46,219] 58 root - INFO - Categorical column encoding completed
+[ 2023-07-18 01:24:46,219] 75 root - INFO - Column Transfer completed
+[ 2023-07-18 01:24:46,229] 159 root - INFO - Splitting train data into dependent and independent features
+[ 2023-07-18 01:24:46,237] 164 root - INFO - Splitting test data into dependent and independent features
+[ 2023-07-18 01:24:46,240] 169 root - INFO - Applying preprocessing obj on training dataframe
+[ 2023-07-18 01:24:46,241] 196 root - INFO - Error in data transformation

@@ -1,0 +1,10 @@
+[ 2023-07-18 01:23:29,187] 26 root - INFO - Entered the data ingestion method
+[ 2023-07-18 01:23:29,489] 29 root - INFO - Read the dataset as dataframe
+[ 2023-07-18 01:23:29,489] 33 root - INFO - Changing column names in  DF is done 
+[ 2023-07-18 01:23:30,392] 42 root - INFO - train test split initiated
+[ 2023-07-18 01:23:31,329] 47 root - INFO - Data Ingestion is done
+[ 2023-07-18 01:23:31,334] 21 root - INFO - Data Transformation started
+[ 2023-07-18 01:23:31,596] 116 root - INFO - Train and Test csv file reading done 
+[ 2023-07-18 01:23:31,609] 126 root - INFO - Column Deletion from train and test data is done
+[ 2023-07-18 01:23:31,635] 108 root - INFO - Outliers handling code has error
+[ 2023-07-18 01:23:31,635] 196 root - INFO - Error in data transformation

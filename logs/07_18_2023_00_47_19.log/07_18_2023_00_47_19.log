@@ -1,0 +1,5 @@
+[ 2023-07-18 00:47:20,563] 26 root - INFO - Entered the data ingestion method
+[ 2023-07-18 00:47:20,851] 29 root - INFO - Read the dataset as dataframe
+[ 2023-07-18 00:47:20,851] 33 root - INFO - Changing column names in  DF is done 
+[ 2023-07-18 00:47:21,745] 42 root - INFO - train test split initiated
+[ 2023-07-18 00:47:22,648] 47 root - INFO - Data Ingestion is done

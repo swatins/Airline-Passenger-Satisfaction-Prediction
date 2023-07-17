@@ -1,0 +1,5 @@
+[ 2023-07-17 23:51:28,272] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-17 23:51:28,278] 187 werkzeug - INFO -  * Debugger PIN: 100-918-000
+[ 2023-07-17 23:51:40,068] 16 root - INFO - Error occurred in Python script name[D:\SWATI ML\Airline-Passenger-Satisfaction-Prediction\app.py] line number[12] error message [WE r trying our custom file ]
+[ 2023-07-17 23:51:40,069] 187 werkzeug - INFO - 127.0.0.1 - - [17/Jul/2023 23:51:40] "GET / HTTP/1.1" 200 -
+[ 2023-07-17 23:51:40,116] 187 werkzeug - INFO - 127.0.0.1 - - [17/Jul/2023 23:51:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
